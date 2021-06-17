@@ -1,6 +1,6 @@
-# spotify_sdk_example
+Tic-Tac-Toe_Spotify : Play the classic Tic-Tac-Toe while listening to your favourite songs from Spotify.
 
-Demonstrates how to use the spotify_sdk plugin.
+
 
 ⚠️ Before running the app you have to edit the `.env` file in the root of the example project and add your own `CLIENT_ID` and `REDIRECT_URL` without surrounding quotes. Make sure that you don't push your credentials to a public repository.
 
